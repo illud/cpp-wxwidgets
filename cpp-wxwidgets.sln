@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp-wxwidgets", "cpp-wxwidgets\cpp-wxwidgets.vcxproj", "{82F62891-A0EE-4AB3-A306-B7741677D63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Debug|x64.ActiveCfg = Debug|x64
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Debug|x64.Build.0 = Debug|x64
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Debug|x86.ActiveCfg = Debug|Win32
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Debug|x86.Build.0 = Debug|Win32
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Release|x64.ActiveCfg = Release|x64
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Release|x64.Build.0 = Release|x64
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Release|x86.ActiveCfg = Release|Win32
+		{82F62891-A0EE-4AB3-A306-B7741677D63C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C68C37E4-50CC-4083-B887-6747FEEA2AB1}
+	EndGlobalSection
+EndGlobal
